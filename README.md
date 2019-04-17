@@ -4,6 +4,7 @@ A simple expo/react-native/parcel template to ease prototyping in mobile applica
 
 ## TODO:
 
+- [ ] add testing
 - [ ] add styled-components
 - [ ] universal device apis ()
 - [ ] add mobx-state-tree

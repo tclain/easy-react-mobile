@@ -24,6 +24,7 @@ const styles = StyleSheet.create({
 
 // for web, run it directly
 if (Platform.OS === "web") {
+  console.log("web");
   AppRegistry.registerComponent("App", () => App);
   AppRegistry.runApplication("App", {
     initialProps: {},
